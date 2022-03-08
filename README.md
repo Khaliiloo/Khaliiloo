@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Khaliiloo
 - 👀 I’m interested in Golang, Rest APIs, gRPC, PostgreSQL, Software development, 
-- 🌱 I’m currently learning AWS
+- 🌱 Currently learning AWS
 
 <!---
 Khaliiloo/Khaliiloo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
