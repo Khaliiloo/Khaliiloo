@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Khaliiloo
+- 👋 Hi, I’m @Khalil
 - 👀 I’m interested in Golang, Rest APIs, gRPC, PostgreSQL, Software development, 
 - 🌱 Currently learning AWS
 
